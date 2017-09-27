@@ -9,7 +9,6 @@
             "email": "vik.melnikov@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "php": ">=5.6",
         "viktor-melnikov/requester": "^1.0",
